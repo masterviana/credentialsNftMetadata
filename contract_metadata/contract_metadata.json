@@ -1,8 +1,8 @@
 {
     "name": "Credenciais Digitais Verificadas",
     "description": "Coleção de credenciais NFT com verificação blockchain e dados criptografados",
-    "image": "https://api.yoursite.com/images/collection-cover.png",
-    "banner_image": "https://api.yoursite.com/images/collection-banner.png",
+    "image": "https://raw.githubusercontent.com/masterviana/credentialsNftMetadata/main/assets/collection_image.png",
+    "banner_image": "https://raw.githubusercontent.com/masterviana/credentialsNftMetadata/main/assets/banner.png",
     "external_link": "https://caixamagica.pt/pt/",
     "seller_fee_basis_points": 0,
     "fee_recipient": "0x0000000000000000000000000000000000000000"

@@ -1,25 +1,25 @@
 {
-    "name": "Certificado de Conclusão - Blockchain Development",
+    "name": "Certificado de Conclusão - UI/UX Design",
     "description": "Credencial verificada emitida em blockchain com hash de dados criptografados para garantir autenticidade e integridade",
     "image": "https://raw.githubusercontent.com/masterviana/credentialsNftMetadata/main/assets/collection_image.png",
     "external_url": "https://raw.githubusercontent.com/masterviana/credentialsNftMetadata/main/externalData/genericCredential.json",
     "attributes": [
       {
         "trait_type": "Credential Name",
-        "value": "Certificado de Conclusão - Blockchain Development"
+        "value": "Certificado de Conclusão - UI/UX Design"
       },
       {
         "trait_type": "Username",
-        "value": "João Carlos Silva"
+        "value": "Tiago André Rodrigues"
       },
       {
         "trait_type": "Issue Date",
-        "value": "2024-01-15",
+        "value": "2024-09-03",
         "display_type": "date"
       },
       {
         "trait_type": "Expiration Date", 
-        "value": "2026-01-15",
+        "value": "2026-09-03",
         "display_type": "date"
       },
       {
@@ -28,7 +28,7 @@
       },
       {
         "trait_type": "Issuer",
-        "value": "Tech Academy Portugal"
+        "value": "Design Excellence Academy"
       },
       {
         "trait_type": "Credential Type",
@@ -36,11 +36,11 @@
       },
       {
         "trait_type": "Level",
-        "value": "Advanced"
+        "value": "Intermediate"
       },
       {
         "trait_type": "Blockchain Hash",
-        "value": "0x1234...abcd",
+        "value": "0x5926...ghij",
         "display_type": "string"
       }
     ],
